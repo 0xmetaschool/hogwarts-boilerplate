@@ -1,0 +1,31 @@
+{
+    "name": "Ravenclaw",
+    "description": "You have been sorted into Ravenclaw! Known for their intelligence, creativity, learning, and wit. Notable alumni include Luna Lovegood, Cho Chang, and Filius Flitwick.",
+    "image": "https://bronze-implicit-jellyfish-397.mypinata.cloud/ipfs/bafkreiforicgly33yqowpjynkgaclmpy2thymd5gf2ssgfrnfse35tigpi",
+    "attributes": [
+        {
+            "trait_type": "House",
+            "value": "Ravenclaw"
+        },
+        {
+            "trait_type": "Colors",
+            "value": "Blue and Bronze"
+        },
+        {
+            "trait_type": "Element",
+            "value": "Air"
+        },
+        {
+            "trait_type": "Founder",
+            "value": "Rowena Ravenclaw"
+        },
+        {
+            "trait_type": "House Head",
+            "value": "Filius Flitwick"
+        },
+        {
+            "trait_type": "Animal",
+            "value": "Eagle"
+        }
+    ]
+}

@@ -1,0 +1,31 @@
+{
+    "name": "Hufflepuff",
+    "description": "You have been sorted into Hufflepuff! Known for their dedication, patience, loyalty, and fair play. Notable alumni include Newt Scamander, Nymphadora Tonks, and Cedric Diggory.",
+    "image": "https://bronze-implicit-jellyfish-397.mypinata.cloud/ipfs/bafkreigon7ju46svfwwdlrpatmtjmal3h25bqs2f2vcizlq3bcyti7muuu",
+    "attributes": [
+        {
+            "trait_type": "House",
+            "value": "Hufflepuff"
+        },
+        {
+            "trait_type": "Colors",
+            "value": "Yellow and Black"
+        },
+        {
+            "trait_type": "Element",
+            "value": "Earth"
+        },
+        {
+            "trait_type": "Founder",
+            "value": "Helga Hufflepuff"
+        },
+        {
+            "trait_type": "House Head",
+            "value": "Pomona Sprout"
+        },
+        {
+            "trait_type": "Animal",
+            "value": "Badger"
+        }
+    ]
+}

@@ -1,0 +1,31 @@
+{
+    "name": "Slytherin",
+    "description": "You have been sorted into Slytherin! Known for their ambition, cunning, leadership, and resourcefulness. Notable alumni include Merlin, Severus Snape, and Horace Slughorn.",
+    "image": "https://bronze-implicit-jellyfish-397.mypinata.cloud/ipfs/bafkreibqe7wyckhppvqq7qrkto657zof3mkdq3jdvzz7a75j7qoidd6ide",
+    "attributes": [
+        {
+            "trait_type": "House",
+            "value": "Slytherin"
+        },
+        {
+            "trait_type": "Colors",
+            "value": "Green and Silver"
+        },
+        {
+            "trait_type": "Element",
+            "value": "Water"
+        },
+        {
+            "trait_type": "Founder",
+            "value": "Salazar Slytherin"
+        },
+        {
+            "trait_type": "House Head",
+            "value": "Severus Snape"
+        },
+        {
+            "trait_type": "Animal",
+            "value": "Serpent"
+        }
+    ]
+}

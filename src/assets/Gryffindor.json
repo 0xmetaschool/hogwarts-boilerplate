@@ -1,0 +1,31 @@
+{
+    "name": "Gryffindor",
+    "description": "You have been sorted into Gryffindor! Known for their courage, bravery, determination, and chivalry. Notable alumni include Harry Potter, Hermione Granger, and Ron Weasley.",
+    "image": "https://bronze-implicit-jellyfish-397.mypinata.cloud/ipfs/bafkreifr4c4kdyxqwynhnqk5tpmksqbi3mm5pdepvy7jleqhnuexhguygq",
+    "attributes": [
+        {
+            "trait_type": "House",
+            "value": "Gryffindor"
+        },
+        {
+            "trait_type": "Colors",
+            "value": "Scarlet and Gold"
+        },
+        {
+            "trait_type": "Element",
+            "value": "Fire"
+        },
+        {
+            "trait_type": "Founder",
+            "value": "Godric Gryffindor"
+        },
+        {
+            "trait_type": "House Head",
+            "value": "Minerva McGonagall"
+        },
+        {
+            "trait_type": "Animal",
+            "value": "Lion"
+        }
+    ]
+}
