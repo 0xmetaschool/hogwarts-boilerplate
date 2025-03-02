@@ -38,8 +38,8 @@ A decentralized application (DApp) that allows users to mint NFTs representing t
 
 1. Clone the repository:
    ```bash
-   git clone <repository-url>
-   cd hogwarts-dapp-frontend
+   git clone https://github.com/0xmetaschool/hogwarts-dapp-frontend-boilerplate.git
+   cd hogwarts-dapp-frontend-boilerplate
    ```
 
 2. Install dependencies:
